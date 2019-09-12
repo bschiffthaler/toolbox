@@ -1,0 +1,6 @@
+[package]
+name = "skip"
+version = "0.1.0"
+authors = ["Bastian Schiffthaler <b.schiffthaler@gmail.com>"]
+
+[dependencies]
